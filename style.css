@@ -1,5 +1,5 @@
 :root {
-  --govcheck-green: #2FA84F;
+  --govcheck-green: #e9f6ee;
 }
 
 body {
@@ -88,4 +88,5 @@ body {
 .scan-btn:active {
   opacity: 0.9;
 }
+
 
